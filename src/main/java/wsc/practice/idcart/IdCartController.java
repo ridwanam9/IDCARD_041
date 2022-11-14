@@ -4,10 +4,13 @@
  */
 package wsc.practice.idcart;
 
+import org.springframework.stereotype.Controller;
+
 /**
  *
  * @author DELL
  */
+@Controller
 public class IdCartController {
     
 }
