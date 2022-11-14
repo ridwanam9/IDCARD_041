@@ -13,4 +13,13 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class IdCartController {
     
+    
+    public String getdata(){
+        
+        String text = "Hello World";
+    
+    
+        return text;
+    }
+    
 }
